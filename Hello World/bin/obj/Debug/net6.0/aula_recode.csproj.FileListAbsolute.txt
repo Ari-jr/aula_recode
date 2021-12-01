@@ -1,0 +1,15 @@
+C:\Users\Ariomar\Documents\GitHub\aula_recode\bin\Debug\net6.0\aula_recode.exe
+C:\Users\Ariomar\Documents\GitHub\aula_recode\bin\Debug\net6.0\aula_recode.deps.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\bin\Debug\net6.0\aula_recode.runtimeconfig.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\bin\Debug\net6.0\aula_recode.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\bin\Debug\net6.0\ref\aula_recode.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\bin\Debug\net6.0\aula_recode.pdb
+C:\Users\Ariomar\Documents\GitHub\aula_recode\obj\Debug\net6.0\aula_recode.csproj.AssemblyReference.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\obj\Debug\net6.0\aula_recode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariomar\Documents\GitHub\aula_recode\obj\Debug\net6.0\aula_recode.AssemblyInfoInputs.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\obj\Debug\net6.0\aula_recode.AssemblyInfo.cs
+C:\Users\Ariomar\Documents\GitHub\aula_recode\obj\Debug\net6.0\aula_recode.csproj.CoreCompileInputs.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\obj\Debug\net6.0\aula_recode.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\obj\Debug\net6.0\ref\aula_recode.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\obj\Debug\net6.0\aula_recode.pdb
+C:\Users\Ariomar\Documents\GitHub\aula_recode\obj\Debug\net6.0\aula_recode.genruntimeconfig.cache
