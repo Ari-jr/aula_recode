@@ -1,0 +1,16 @@
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\bin\Debug\net5.0\Estrutura_de_Repetição.exe
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\bin\Debug\net5.0\Estrutura_de_Repetição.deps.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\bin\Debug\net5.0\Estrutura_de_Repetição.runtimeconfig.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\bin\Debug\net5.0\Estrutura_de_Repetição.runtimeconfig.dev.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\bin\Debug\net5.0\Estrutura_de_Repetição.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\bin\Debug\net5.0\ref\Estrutura_de_Repetição.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\bin\Debug\net5.0\Estrutura_de_Repetição.pdb
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\obj\Debug\net5.0\Estrutura_de_Repetição.csproj.AssemblyReference.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\obj\Debug\net5.0\Estrutura_de_Repetição.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\obj\Debug\net5.0\Estrutura_de_Repetição.AssemblyInfoInputs.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\obj\Debug\net5.0\Estrutura_de_Repetição.AssemblyInfo.cs
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\obj\Debug\net5.0\Estrutura_de_Repetição.csproj.CoreCompileInputs.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\obj\Debug\net5.0\Estrutura_de_Repetição.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\obj\Debug\net5.0\ref\Estrutura_de_Repetição.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\obj\Debug\net5.0\Estrutura_de_Repetição.pdb
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estrutura_de_Repetição\obj\Debug\net5.0\Estrutura_de_Repetição.genruntimeconfig.cache
