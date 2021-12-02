@@ -38,6 +38,24 @@ namespace Estrutura_de_Repetição
             3
             4
             */
+
+            // WHILE com BREAK
+            int k = 0;
+            while (k < 5)
+            {
+                if (k>2)
+                    break;
+                Console.WriteLine(k);
+                k++;
+            }
+
+            /*
+            Saída
+
+            0
+            1
+            2
+            */
         }
     }
 }
