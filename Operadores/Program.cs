@@ -6,7 +6,9 @@ namespace operadores
     {
         static void Main(string [] args)
         {
-           /* int i = 3;
+           /* 
+            //Operadores Aritméticos
+            int i = 3;
             Console.WriteLine(i);   // saída: 3
             Console.WriteLine(i++); // saída: 3
             Console.WriteLine(i);   // saída: 4
@@ -47,11 +49,43 @@ namespace operadores
 
             Console.WriteLine(5 + 4);       // saída: 9
             Console.WriteLine(5 + 4.3);     // saída: 9.3
-            */
-
 
             Console.WriteLine(47 - 3);      // saída: 44
             Console.WriteLine(5 - 4.3);     // saída: 0.7
+            */
+
+
+            /*
+            //Operadores de Comparação
+            Console.WriteLine(7.0 < 5.1);   // saída: False
+            Console.WriteLine(5.1 < 5.1);   // saída: False
+            Console.WriteLine(0.0 < 5.1);   // saída: True
+
+            Console.WriteLine(double.NaN < 5.1);   // saída: False
+            Console.WriteLine(double.NaN >= 5.1);  // saída: False
+
+            Console.WriteLine(7.0 > 5.1);   // saída: True
+            Console.WriteLine(5.1 > 5.1);   // saída: False
+            Console.WriteLine(0.0 > 5.1);   // saída: False
+
+            Console.WriteLine(double.NaN > 5.1);   // saída: False
+            Console.WriteLine(double.NaN <= 5.1);  // saída: False
+
+            Console.WriteLine(7.0 <= 5.1);   // saída: False
+            Console.WriteLine(5.1 <= 5.1);   // saída: True
+            Console.WriteLine(0.0 <= 5.1);   // saída: True
+
+            Console.WriteLine(double.NaN > 5.1);   // saída: False
+            Console.WriteLine(double.NaN <= 5.1);  // saída: False
+
+            Console.WriteLine(7.0 >= 5.1);   // saída: True
+            Console.WriteLine(5.1 >= 5.1);   // saída: True
+            Console.WriteLine(0.0 >= 5.1);   // saída: False
+
+            Console.WriteLine(double.NaN < 5.1);   // saída: False
+            Console.WriteLine(double.NaN >= 5.1);  // saída: False
+            */
+
 
         }
     }
