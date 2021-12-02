@@ -56,6 +56,28 @@ namespace Estrutura_de_Repetição
             1
             2
             */
+
+            //WHILE com CONTINUE
+            int z = 0;
+            while (z < 5)
+            {
+                if(z==2)
+                {
+                    z++;
+                    continue;
+                }
+                Console.WriteLine(z);
+                z++;
+            }
+
+            /*
+            Saída
+            0
+            1
+            3
+            4
+            */
+
         }
     }
 }
