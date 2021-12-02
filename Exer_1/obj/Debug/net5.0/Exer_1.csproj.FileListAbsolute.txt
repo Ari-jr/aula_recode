@@ -1,0 +1,16 @@
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\bin\Debug\net5.0\Exer_1.exe
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\bin\Debug\net5.0\Exer_1.deps.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\bin\Debug\net5.0\Exer_1.runtimeconfig.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\bin\Debug\net5.0\Exer_1.runtimeconfig.dev.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\bin\Debug\net5.0\Exer_1.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\bin\Debug\net5.0\ref\Exer_1.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\bin\Debug\net5.0\Exer_1.pdb
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\obj\Debug\net5.0\Exer_1.csproj.AssemblyReference.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\obj\Debug\net5.0\Exer_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\obj\Debug\net5.0\Exer_1.AssemblyInfoInputs.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\obj\Debug\net5.0\Exer_1.AssemblyInfo.cs
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\obj\Debug\net5.0\Exer_1.csproj.CoreCompileInputs.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\obj\Debug\net5.0\Exer_1.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\obj\Debug\net5.0\ref\Exer_1.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\obj\Debug\net5.0\Exer_1.pdb
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Exer_1\obj\Debug\net5.0\Exer_1.genruntimeconfig.cache
