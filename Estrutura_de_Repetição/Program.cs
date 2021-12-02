@@ -78,6 +78,23 @@ namespace Estrutura_de_Repetição
             4
             */
 
+            // DO WHILE
+            int h = 0;
+            do
+            {
+                Console.WriteLine(h);
+                h++;
+            } while (h < 5);
+
+            /*
+            Saída
+            0
+            1
+            2
+            3
+            4
+            */
+
         }
     }
 }
