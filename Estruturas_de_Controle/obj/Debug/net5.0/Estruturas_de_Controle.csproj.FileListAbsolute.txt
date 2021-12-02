@@ -1,0 +1,16 @@
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\bin\Debug\net5.0\Estruturas_de_Controle.exe
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\bin\Debug\net5.0\Estruturas_de_Controle.deps.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\bin\Debug\net5.0\Estruturas_de_Controle.runtimeconfig.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\bin\Debug\net5.0\Estruturas_de_Controle.runtimeconfig.dev.json
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\bin\Debug\net5.0\Estruturas_de_Controle.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\bin\Debug\net5.0\ref\Estruturas_de_Controle.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\bin\Debug\net5.0\Estruturas_de_Controle.pdb
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\obj\Debug\net5.0\Estruturas_de_Controle.csproj.AssemblyReference.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\obj\Debug\net5.0\Estruturas_de_Controle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\obj\Debug\net5.0\Estruturas_de_Controle.AssemblyInfoInputs.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\obj\Debug\net5.0\Estruturas_de_Controle.AssemblyInfo.cs
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\obj\Debug\net5.0\Estruturas_de_Controle.csproj.CoreCompileInputs.cache
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\obj\Debug\net5.0\Estruturas_de_Controle.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\obj\Debug\net5.0\ref\Estruturas_de_Controle.dll
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\obj\Debug\net5.0\Estruturas_de_Controle.pdb
+C:\Users\Ariomar\Documents\GitHub\aula_recode\Estruturas_de_Controle\obj\Debug\net5.0\Estruturas_de_Controle.genruntimeconfig.cache
