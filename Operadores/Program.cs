@@ -6,7 +6,7 @@ namespace operadores
     {
         static void Main(string [] args)
         {
-           /* 
+           
             //Operadores Aritméticos
             int i = 3;
             Console.WriteLine(i);   // saída: 3
@@ -52,10 +52,10 @@ namespace operadores
 
             Console.WriteLine(47 - 3);      // saída: 44
             Console.WriteLine(5 - 4.3);     // saída: 0.7
-            */
+            
 
 
-            /*
+            
             //Operadores de Comparação
             Console.WriteLine(7.0 < 5.1);   // saída: False
             Console.WriteLine(5.1 < 5.1);   // saída: False
@@ -84,7 +84,36 @@ namespace operadores
 
             Console.WriteLine(double.NaN < 5.1);   // saída: False
             Console.WriteLine(double.NaN >= 5.1);  // saída: False
-            */
+            
+
+
+            //Operadores Lógicos
+            bool passed = false;
+            Console.WriteLine(!passed);  // output: True
+            Console.WriteLine(!true);    // output: False
+
+            bool SecondOperand()
+            {
+                Console.WriteLine("Second operand is evaluated.");
+                return true;
+            }
+
+            bool a = false & SecondOperand();
+            Console.WriteLine(a);
+            // Output:
+            // Second operand is evaluated.
+            // False
+
+            bool b = true & SecondOperand();
+            Console.WriteLine(b);
+            // Output:
+            // Second operand is evaluated.
+            // True
+
+            Console.WriteLine(true ^ true);    // output: False
+            Console.WriteLine(true ^ false);   // output: True
+            Console.WriteLine(false ^ true);   // output: True
+            Console.WriteLine(false ^ false);  // output: False
 
 
         }
