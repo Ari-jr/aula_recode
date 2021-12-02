@@ -95,6 +95,30 @@ namespace Estrutura_de_Repetição
             4
             */
 
+            // FOR EACH
+            var fibNumbers = new List<int> { 0, 1, 1, 2, 3, 5, 8, 13 };
+            int count = 0;
+            foreach (int element in fibNumbers)
+            {
+                Console.WriteLine($"Elemento #{count}: {element}");
+                count++;
+            }
+            Console.WriteLine($"Número de elementos: {count}");
+
+            /*
+            Saída
+            Elemento #0: 0
+            Elemento #1: 1
+            Elemento #2: 1
+            Elemento #3: 2
+            Elemento #4: 3
+            Elemento #5: 5
+            Elemento #6: 8
+            Elemento #7: 13
+            Número de elementos: 8
+            */
+
+
         }
     }
 }
